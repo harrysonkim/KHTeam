@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
+            
+    
+=======
+        
+>>>>>>> branch 'master' of https://github.com/harrysonkim/KHTeam
+    <wb-module deploy-name="TestProject">
+<<<<<<< HEAD
+                        
+        
+=======
+                
+>>>>>>> branch 'master' of https://github.com/harrysonkim/KHTeam
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+<<<<<<< HEAD
+                        
+        
+=======
+                
+>>>>>>> branch 'master' of https://github.com/harrysonkim/KHTeam
+        <property name="context-root" value="TestProject"/>
+<<<<<<< HEAD
+                        
+        
+=======
+                
+>>>>>>> branch 'master' of https://github.com/harrysonkim/KHTeam
+        <property name="java-output-path" value="/TestProject/build/classes"/>
+<<<<<<< HEAD
+                    
+    
+=======
+            
+>>>>>>> branch 'master' of https://github.com/harrysonkim/KHTeam
+    </wb-module>
+<<<<<<< HEAD
+        
+
+=======
+    
+>>>>>>> branch 'master' of https://github.com/harrysonkim/KHTeam
+</project-modules>
